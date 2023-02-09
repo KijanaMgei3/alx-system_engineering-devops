@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -m 751 mkdir
+chmod chgrp shool hello
